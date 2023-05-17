@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-16T15:49:54 AST" name="Default suite" finished-at="2023-05-16T15:51:40 AST" duration-ms="105677">
+    <groups>
+    </groups>
+    <test started-at="2023-05-16T15:49:54 AST" name="Default test" finished-at="2023-05-16T15:51:40 AST" duration-ms="105677">
+      <class name="TESTCASES">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:TESTCASES@7882c44a]" started-at="2023-05-16T15:49:54 AST" name="BeforeTest" finished-at="2023-05-16T15:49:56 AST" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="LogIn()[pri:1, instance:TESTCASES@7882c44a]" started-at="2023-05-16T15:49:56 AST" name="LogIn" finished-at="2023-05-16T15:50:01 AST" duration-ms="4840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method signature="RANDOMLY_ADD3_PHONES()[pri:3, instance:TESTCASES@7882c44a]" started-at="2023-05-16T15:50:01 AST" name="RANDOMLY_ADD3_PHONES" finished-at="2023-05-16T15:50:28 AST" duration-ms="27102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RANDOMLY_ADD3_PHONES -->
+        <test-method signature="RANDOMLY_ADD2_LAPTOPS()[pri:4, instance:TESTCASES@7882c44a]" started-at="2023-05-16T15:50:28 AST" name="RANDOMLY_ADD2_LAPTOPS" finished-at="2023-05-16T15:50:48 AST" duration-ms="19879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RANDOMLY_ADD2_LAPTOPS -->
+        <test-method signature="RANDOMLY_ADD1_MONITOR()[pri:5, instance:TESTCASES@7882c44a]" started-at="2023-05-16T15:50:48 AST" name="RANDOMLY_ADD1_MONITOR" finished-at="2023-05-16T15:51:04 AST" duration-ms="16302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RANDOMLY_ADD1_MONITOR -->
+        <test-method signature="checkOutProcess()[pri:6, instance:TESTCASES@7882c44a]" started-at="2023-05-16T15:51:04 AST" name="checkOutProcess" finished-at="2023-05-16T15:51:40 AST" duration-ms="36179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutProcess -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:TESTCASES@7882c44a]" started-at="2023-05-16T15:51:40 AST" name="AfterTest" finished-at="2023-05-16T15:51:40 AST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- TESTCASES -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
